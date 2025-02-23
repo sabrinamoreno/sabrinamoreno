@@ -1,10 +1,9 @@
   ## Olá, seja bem vindo(a) ao meu GitHub! 
 
-- 👋 Hi, I’m Sabrina
-- 👀 I’m interested in technology, books, music
-- 🌱 I’m currently learning computing and information technology at university
-- 💞️ I’m looking to collaborate with front end developers  
-- 😄 Pronouns: she/her
+- 👋 Prazer, me chamo Sabrina , dev Front-end 
+- 👀 Amo tecnologia, livros e músicas 
+- 🌱 Atualmente estou cursando uma licenciatura em Computação e Informática na UFMA 
+- 💞️ Em busca de aprender com desenvolvedores de todos os lugares
 
 ## Algumas tecnologias que estou aprendendo :) 
 <div style="display: inline_block"><br>
