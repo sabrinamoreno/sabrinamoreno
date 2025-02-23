@@ -3,7 +3,7 @@
 - 👋 Prazer, me chamo Sabrina , dev Front-end 
 - 👀 Amo tecnologia, livros e músicas 
 - 🌱 Atualmente estou cursando uma licenciatura em Computação e Informática na UFMA 
-- 💞️ Em busca de aprender com desenvolvedores de todos os lugares
+- 💞️ Em busca de aprender e colaborar com desenvolvedores de todos os lugares
 
 ## Algumas tecnologias que estou aprendendo :) 
 <div style="display: inline_block"><br>
