@@ -1,6 +1,6 @@
   ## Olá, seja bem vindo(a) ao meu GitHub! 
 
-- 👋 Prazer, me chamo Sabrina , dev Front-end 
+- 👋 Prazer, me chamo Sabrina
 - 👀 Amo tecnologia, livros e músicas 
 - 🌱 Atualmente estou cursando uma licenciatura em Computação e Informática na UFMA 
 - 💞️ Em busca de aprender e colaborar com desenvolvedores de todos os lugares
