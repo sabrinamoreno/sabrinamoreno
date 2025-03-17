@@ -2,7 +2,7 @@
 
 - 👋 Prazer, me chamo Sabrina
 - 👀 Amo tecnologia, livros e músicas 
-- 🌱 Atualmente estou cursando Licenciatura em Computação e Informática na UFMA 
+- 🌱 Atualmente estou cursando Computação e Informática na UFMA 
 - 💞️ Em busca de aprender e colaborar com desenvolvedores de todos os lugares
 
 ## Algumas tecnologias que estou aprendendo :) 
