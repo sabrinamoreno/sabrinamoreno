@@ -8,7 +8,7 @@ Eu sou Sabrina , **` Desenvolvedora Front end`** em formação, e  atualmente cu
 <br> 
 <div>
   <a href="https://portfolio-de-sabrina.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logoColor=white" target="_blank"></a> 
-  <a href=" www.linkedin.com/in/sabrina-moreno-941315275 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sabrina2610/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:sabrinamorenorodr28741@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
