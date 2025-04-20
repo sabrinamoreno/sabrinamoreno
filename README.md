@@ -11,6 +11,8 @@ Eu sou Sabrina , **` Desenvolvedora Front end`** em formação, e  atualmente cu
   <a href=" www.linkedin.com/in/sabrina-moreno-941315275 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+
+## Estatísticas
 <div>
 <a href="https://github.com/sabrinamoreno">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinamoreno&layout=compact&langs_count=7&theme=dracula"/>
