@@ -10,6 +10,9 @@ Eu sou Sabrina , **` Desenvolvedora Front end`** em formação, e  atualmente cu
   <a href="https://portfolio-de-sabrina.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/sabrina2610/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:sabrinamorenorodr28741@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5599999999999?text=Olá%2C%20vi%20seu%20GitHub%20e%20quero%20conversar!" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 </div>
 
 
