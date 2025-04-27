@@ -3,7 +3,7 @@
 Eu sou Sabrina, Dev Front end em formação, e  atualmente cursando uma graduação em  Computação e Informática na UFMA. Resido em São Luís do Maranhão, onde tenho uma imensa paixão por morar. Tenho como objetivo trabalhar e colaborar em projetos com desenvolvedores de todos os lugares do mundo! Quero compartilhar o que estou aprendendo, praticar minhas habilidades e, claro, aprender cada vez mais com a comunidade. Acredito que a  tecnologia une as pessoas , objetivos e histórias. Sinto-me honrada em fazer parte dessa incrível jornada, e ansiosa para conhecer novas oportuidades e contribuir para o crescimento de empresas . Quando não estou programando, você provavelmente vai me encontrar com um livro na mão, ouvindo música ou curtindo assuntos sobre tecnologia. Ah, e eu amo gatos! kkkk 😺   
 
 
-## Onde você pode me encontrar : 
+## Onde você pode me encontrar : 📲📞
 
 <br> 
 <div>
@@ -17,7 +17,7 @@ Eu sou Sabrina, Dev Front end em formação, e  atualmente cursando uma graduaç
 </div>
 
 
-## Estatísticas
+## Estatísticas 📊
 <div>
 <a href="https://github.com/sabrinamoreno">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinamoreno&layout=compact&langs_count=7&theme=dracula"/>
