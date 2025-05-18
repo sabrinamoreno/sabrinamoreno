@@ -1,4 +1,6 @@
-## Hi visitors, welcome to my GitHub Portfolio! 
+
+## Olá visitante, bem vindo(a) ao meu GitHub!
+<!---## Hi visitors, welcome to my GitHub Portfolio! --->
 
 <!--I´m Sabrina ,front end developer . I live in São Luís, Brazil. Im currently studying computing at the Federal University of Maranhão. I am looking to collaborate on projects, share what I am learning, practice my skills and, of course, learn more and more from the community. I believe that technology brings people, goals and stories together. I feel honored to be part of this incredible journey, and I look forward to learning new opportunities and contributing to the growth of companies. ---->
 
