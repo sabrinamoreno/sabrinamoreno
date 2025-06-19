@@ -4,9 +4,10 @@
 
 <!--I´m Sabrina ,front end developer . I live in São Luís, Brazil. Im currently studying computing at the Federal University of Maranhão. I am looking to collaborate on projects, share what I am learning, practice my skills and, of course, learn more and more from the community. I believe that technology brings people, goals and stories together. I feel honored to be part of this incredible journey, and I look forward to learning new opportunities and contributing to the growth of companies. ---->
 
-Eu sou Sabrina, Dev Front end em formação, e  atualmente cursando uma graduação em  Computação e Informática na UFMA. Resido em São Luís do Maranhão, onde tenho uma imensa paixão por morar. Tenho como objetivo trabalhar e colaborar em projetos com desenvolvedores de todos os lugares do mundo! Quero compartilhar o que estou aprendendo, praticar minhas habilidades e, claro, aprender cada vez mais com a comunidade. Acredito que a  tecnologia une as pessoas , objetivos e histórias. Sinto-me honrada em fazer parte dessa incrível jornada, e ansiosa para conhecer novas oportuidades e contribuir para o crescimento de empresas . Quando não estou programando, você provavelmente vai me encontrar com um livro na mão, ouvindo música ou curtindo assuntos sobre tecnologia. Ah, e eu amo gatos! kkkk 😺    
+Eu sou Sabrina, Dev Front end em formação, e  atualmente cursando uma graduação em  Computação e Informática na UFMA. Resido em São Luís do Maranhão, onde tenho uma imensa paixão por morar. Tenho como objetivo trabalhar e colaborar em projetos com desenvolvedores de todos os lugares do mundo! Quero compartilhar o que estou aprendendo, praticar minhas habilidades e, claro, aprender cada vez mais com a comunidade. Acredito que a  tecnologia une as pessoas , objetivos e histórias. Sinto-me honrada em fazer parte dessa incrível jornada, e ansiosa para conhecer novas oportuidades. Quando não estou programando, você provavelmente vai me encontrar com um livro na mão, ou ouvindo música . Ah, e eu amo gatos! kkkk 😺    
 
 ## Onde você pode me encontrar : 📲📞
+<!---## Where can you find me? 📲📞--->
 
 <br> 
 <div>
@@ -20,6 +21,7 @@ Eu sou Sabrina, Dev Front end em formação, e  atualmente cursando uma graduaç
 
 
 ## Estatísticas 📊
+<!--- ## Statistics 📊--->
 <div>
 <a href="https://github.com/sabrinamoreno">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinamoreno&layout=compact&langs_count=7&theme=dracula"/>
@@ -28,6 +30,7 @@ Eu sou Sabrina, Dev Front end em formação, e  atualmente cursando uma graduaç
 
   
 ## Algumas tecnologias que estou aprendendo :) 
+<!--- ## Some technologies I'm learning :)--->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
