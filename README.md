@@ -19,7 +19,6 @@ Eu sou Sabrina, Dev Front end em formação, e  atualmente cursando uma graduaç
 </a>
 </div>
 
-
 ## Estatísticas 📊
 <!--- ## Statistics 📊--->
 <div>
