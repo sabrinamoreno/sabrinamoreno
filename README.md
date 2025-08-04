@@ -1,12 +1,12 @@
 
-## Olá visitante, bem vindo(a) ao meu GitHub!
+## Olá Visitante, Bem vindo(a) ao Meu GitHub!
 <!---## Hi visitors, welcome to my GitHub Portfolio! --->
 
 <!--I´m Sabrina ,front end developer . I live in São Luís, Brazil. Im currently studying computing at the Federal University of Maranhão. I am looking to collaborate on projects, share what I am learning, practice my skills and, of course, learn more and more from the community. I believe that technology brings people, goals and stories together. I feel honored to be part of this incredible journey, and I look forward to learning new opportunities and contributing to the growth of companies. ---->
 
-Eu sou Sabrina, Dev Front end em formação, e  atualmente cursando uma graduação em  Computação e Informática na UFMA. Resido em São Luís do Maranhão, onde tenho uma imensa paixão por morar. Tenho como objetivo trabalhar e colaborar em projetos com desenvolvedores de todos os lugares do mundo! Quero compartilhar o que estou aprendendo, praticar minhas habilidades e, claro, aprender cada vez mais com a comunidade. Acredito que a  tecnologia une as pessoas , objetivos e histórias. Sinto-me honrada em fazer parte dessa incrível jornada, e ansiosa para conhecer novas oportunidades. Quando não estou programando, você provavelmente vai me encontrar com um livro na mão, ouvindo música, ou curtindo com minha gatinha faísca kkkk   
+Olá! Sou Sabrina, Desenvolvedora Front-End, Com Paixão Por Transformar Ideias Em Interfaces Acessíveis, Funcionais e Visualmente Atrativas. Atualmente, Sou Estudante de Computação na UFMA e Ex-trilheira no Programa Trilhas Inova Maranhão, Onde Aprofundei Habilidades Técnicas e Comportamentais Essenciais Para o Mercado de Tecnologia. Quando Não Estou Programando, Você Provavelmente Vai me Encontrar Com um Livro na Mão, Ouvindo Música, Ou Curtindo com Minha Gatinha Faísca kkkk   
 
-## Onde você pode me encontrar : 📲📞
+## Onde Você Pode Me Encontrar : 📲📞
 <!---## Where can you find me? 📲📞--->
 
 <br> 
@@ -27,18 +27,29 @@ Eu sou Sabrina, Dev Front end em formação, e  atualmente cursando uma graduaç
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinamoreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+
+## Projetos em Destaque 💼
+
+1. https://desafio-3-rouge.vercel.app
+2. https://desafio-4-trilhas-inova.vercel.app
+3. https://desafio-5-trilhas-inova.vercel.app
+4.
   
 ## Tecnologias :) 
 <!--- ## Technologies :)--->
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div> <br> 
-
- 
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+</div>
