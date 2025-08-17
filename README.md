@@ -32,10 +32,14 @@ Olá! Sou Sabrina, Desenvolvedora Front-End, Com Paixão Por Transformar Ideias 
 
 ## Projetos em Destaque 💼
 
+#### Página de Login Interativa com JavaScript ✔️ 
 1. https://desafio-3-rouge.vercel.app
+#### Plataforma Educacional SISFOR ✔️
 2. https://desafio-4-trilhas-inova.vercel.app
+#### Plataforma de Telemedicina CallMed Atendimentos ✔️
 3. https://desafio-5-trilhas-inova.vercel.app
-4.
+#### Meu Website Profissional ✔️
+4. https://portfolio-de-sabrina.vercel.app
   
 ## Tecnologias :) 
 <!--- ## Technologies :)--->
