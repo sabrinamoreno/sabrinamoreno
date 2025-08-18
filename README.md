@@ -1,13 +1,9 @@
 
 ## Olá Visitante, Bem vindo(a) ao Meu GitHub!
-<!---## Hi visitors, welcome to my GitHub Portfolio! --->
-
-<!--I´m Sabrina ,front end developer . I live in São Luís, Brazil. Im currently studying computing at the Federal University of Maranhão. I am looking to collaborate on projects, share what I am learning, practice my skills and, of course, learn more and more from the community. I believe that technology brings people, goals and stories together. I feel honored to be part of this incredible journey, and I look forward to learning new opportunities and contributing to the growth of companies. ---->
 
 Olá! Sou Sabrina, Desenvolvedora Front-End, Com Paixão Por Transformar Ideias Em Interfaces Acessíveis, Funcionais e Visualmente Atrativas. Atualmente, Sou Estudante de Computação na UFMA e Ex-trilheira no Programa Trilhas Inova Maranhão, Onde Aprofundei Habilidades Técnicas e Comportamentais Essenciais Para o Mercado de Tecnologia. Quando Não Estou Programando, Você Provavelmente Vai me Encontrar Com um Livro na Mão, Ouvindo Música, Ou Curtindo com Minha Gatinha Faísca kkkk   
 
 ## Onde Você Pode Me Encontrar : 📲📞
-<!---## Where can you find me? 📲📞--->
 
 <br> 
 <div>
@@ -22,7 +18,6 @@ Olá! Sou Sabrina, Desenvolvedora Front-End, Com Paixão Por Transformar Ideias 
 </div>
 
 ## Estatísticas 📊
-<!--- ## Statistics 📊--->
 <div>
 <a href="https://github.com/sabrinamoreno">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinamoreno&layout=compact&langs_count=7&theme=dracula"/>
@@ -37,7 +32,6 @@ Olá! Sou Sabrina, Desenvolvedora Front-End, Com Paixão Por Transformar Ideias 
 
   
 ## Tecnologias :) 
-<!--- ## Technologies :)--->
   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
