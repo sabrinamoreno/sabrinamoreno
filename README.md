@@ -29,17 +29,12 @@ Olá! Sou Sabrina, Desenvolvedora Front-End, Com Paixão Por Transformar Ideias 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinamoreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
 ## Projetos em Destaque 💼
 
-#### Página de Login Interativa com JavaScript ✔️ 
-1. https://desafio-3-rouge.vercel.app
-#### Plataforma Educacional SISFOR ✔️
-2. https://desafio-4-trilhas-inova.vercel.app
-#### Plataforma de Telemedicina CallMed Atendimentos ✔️
-3. https://desafio-5-trilhas-inova.vercel.app
-#### Meu Website Profissional ✔️
-4. https://portfolio-de-sabrina.vercel.app
+| Projetos | |
+|----------|--|
+| **Página de Login Interativa com JavaScript ✔️** <br> [https://desafio-3-rouge.vercel.app](https://desafio-3-rouge.vercel.app) <br><br> **Plataforma Educacional SISFOR ✔️** <br> [https://desafio-4-trilhas-inova.vercel.app](https://desafio-4-trilhas-inova.vercel.app) <br><br> **Plataforma de Telemedicina CallMed Atendimentos ✔️** <br> [https://desafio-5-trilhas-inova.vercel.app](https://desafio-5-trilhas-inova.vercel.app) <br><br> **Meu Website Profissional ✔️** <br> [https://portfolio-de-sabrina.vercel.app](https://portfolio-de-sabrina.vercel.app) | <p align="center"><img src="https://media1.tenor.com/m/KXR25Mh2tPsAAAAC/typing.gif" width="200"></p> |
+
   
 ## Tecnologias :) 
 <!--- ## Technologies :)--->
