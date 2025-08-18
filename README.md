@@ -33,7 +33,7 @@ Olá! Sou Sabrina, Desenvolvedora Front-End, Com Paixão Por Transformar Ideias 
 
 | Projetos | |
 |----------|--|
-| **Página de Login Interativa com JavaScript ✔️** <br> [https://desafio-3-rouge.vercel.app](https://desafio-3-rouge.vercel.app) <br><br> **Plataforma Educacional SISFOR ✔️** <br> [https://desafio-4-trilhas-inova.vercel.app](https://desafio-4-trilhas-inova.vercel.app) <br><br> **Plataforma de Telemedicina CallMed Atendimentos ✔️** <br> [https://desafio-5-trilhas-inova.vercel.app](https://desafio-5-trilhas-inova.vercel.app) <br><br> **Meu Website Profissional ✔️** <br> [https://portfolio-de-sabrina.vercel.app](https://portfolio-de-sabrina.vercel.app) | <p align="center"><img src="https://media1.tenor.com/m/KXR25Mh2tPsAAAAC/typing.gif" width="200"></p> |
+| **Página de Login Interativa com JavaScript** <br> [https://desafio-3-rouge.vercel.app](https://desafio-3-rouge.vercel.app)  ➤ **Repositório**: https://github.com/biancadamasceno/DESAFIO_3<br><br> **Plataforma Educacional SISFOR** <br> [https://desafio-4-trilhas-inova.vercel.app](https://desafio-4-trilhas-inova.vercel.app) ➤ **Repositório**: https://github.com/sabrinamoreno/desafio-4-trilhas-inova <br><br> **Plataforma de Telemedicina CallMed Atendimentos** <br> [https://desafio-5-trilhas-inova.vercel.app](https://desafio-5-trilhas-inova.vercel.app) ➤ **Repositório**: https://github.com/sabrinamoreno/desafio-5-trilhas-inova <br><br> **Meu Website** <br> [https://portfolio-de-sabrina.vercel.app](https://portfolio-de-sabrina.vercel.app) | <p align="center"><img src="https://media1.tenor.com/m/KXR25Mh2tPsAAAAC/typing.gif" width="200"></p> |
 
   
 ## Tecnologias :) 
