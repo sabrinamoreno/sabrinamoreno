@@ -1,7 +1,7 @@
 
 ## Olá Visitante, Bem vindo(a) ao Meu GitHub!
 
-Olá! Sou Sabrina, Desenvolvedora Front-End, Com Paixão Por Transformar Ideias Em Interfaces Acessíveis, Funcionais e Visualmente Atrativas. Atualmente, Sou Estudante de Computação na UFMA e Ex-trilheira no Programa Trilhas Inova Maranhão, Onde Aprofundei Habilidades Técnicas e Comportamentais Essenciais Para o Mercado de Tecnologia. Quando Não Estou Programando, Você Provavelmente Vai me Encontrar Com um Livro na Mão, Ouvindo Música, Ou Curtindo com Minha Gatinha Faísca kkkk   
+Olá! Sou Sabrina, Desenvolvedora Front-End, Com Paixão Por Transformar Ideias Em Interfaces Acessíveis, Funcionais e Visualmente Atrativas. Atualmente, Sou Estudante de Computação na UFMA e Ex-trilheira no Programa Trilhas Inova Maranhão, Onde Aprofundei Habilidades Técnicas e Comportamentais Essenciais Para o Mercado de Tecnologia. Quando Não Estou Programando, Você Provavelmente Vai me Encontrar Com um Livro na Mão, Ouvindo Música, ou Curtindo Com Minha Gatinha Faísca kkkk   
 
 ## Onde Você Pode Me Encontrar : 📲📞
 
@@ -11,9 +11,6 @@ Olá! Sou Sabrina, Desenvolvedora Front-End, Com Paixão Por Transformar Ideias 
 <a href="https://www.linkedin.com/in/sabrina2610/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:sabrinamorenorodr28741@gmail.com?subject=Contato&body=Ol%C3%A1%2C%20Sabrina!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://wa.me/5598981367859?text=Olá%2C%20vi%20seu%20GitHub%20e%20quero%20conversar!" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 </div>
 
