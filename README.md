@@ -1,7 +1,8 @@
 
 ## Olá Visitante, Bem vindo(a) ao Meu GitHub!
 
-Olá! Sou Sabrina, Desenvolvedora Front-End, Com Paixão Por Transformar Ideias Em Interfaces Acessíveis, Funcionais e Visualmente Atrativas. Atualmente, Sou Estudante de Computação na UFMA e Ex-trilheira no Programa Trilhas Inova Maranhão, Onde Aprofundei Habilidades Técnicas e Comportamentais Essenciais Para o Mercado de Tecnologia. Quando Não Estou Programando, Você Provavelmente Vai me Encontrar Com um Livro na Mão, Ouvindo Música, ou Curtindo Com Minha Gatinha Faísca kkkk   
+Desenvolvedora Front-End com experiência em HTML, CSS, JavaScript e React, dedicada a criar soluções escaláveis e de qualidade. Ex-trilheira do Programa Trilhas Inova Maranhão, com atuação em projetos que exigiram versionamento de código, colaboração em equipe e aplicação de boas práticas de desenvolvimento.
+Tenho domínio de Git e GitHub para controle de versão, além de experiência em deploy. Meu foco está em escrever código limpo, reutilizável e bem documentado, garantindo performance e usabilidade. No meu GitHub, você encontrará projetos que demonstram minha evolução técnica e meu compromisso em entregar resultados consistentes na área de desenvolvimento web.  
 
 ## Onde Você Pode Me Encontrar : 📲📞
 
