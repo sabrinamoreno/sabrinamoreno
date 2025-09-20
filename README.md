@@ -16,7 +16,7 @@ Tenho domínio de Git e GitHub para controle de versão, além de experiência e
   </a>
 
   <!-- Gmail -->
-  <a href="https://mail.google.com/mail/?view=cm&to=sabrinamorenorodr28741@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=contact.sabrina.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
          width="80" height="50" alt="gmail logo" />
   </a>
