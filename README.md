@@ -1,18 +1,31 @@
 
 ## Olá Visitante, Bem vindo(a) ao Meu GitHub!
 
-Desenvolvedora Front-End com experiência em HTML, CSS, JavaScript e React, dedicada a criar soluções escaláveis e de qualidade. Ex-trilheira do Programa Trilhas Inova Maranhão, com atuação em projetos que exigiram versionamento de código, colaboração em equipe e aplicação de boas práticas de desenvolvimento.
-Tenho domínio de Git e GitHub para controle de versão, além de experiência em deploy. Meu foco está em escrever código limpo, reutilizável e bem documentado, garantindo performance e usabilidade. No meu GitHub, você encontrará projetos que demonstram minha evolução técnica e meu compromisso em entregar resultados consistentes na área de desenvolvimento web.  
+Sou Sabrina, estudante de Computação na UFMA e desenvolvedora Front-End com experiência em HTML, CSS, JavaScript e React, dedicada a criar soluções escaláveis e de qualidade. Ex-trilheira do Programa Trilhas Inova Maranhão, com atuação em projetos que exigiram versionamento de código, colaboração em equipe e aplicação de boas práticas de desenvolvimento.
+Tenho domínio de Git e GitHub para controle de versão, além de experiência em deploy. Meu foco está em escrever código limpo, reutilizável e bem documentado, garantindo performance e usabilidade. Também gosto de desenvolver projetos voltados para impacto social, buscando ajudar pessoas e animais por meio da tecnologia, sempre com profissionalismo e dedicação.No meu GitHub, você encontrará projetos que demonstram minha evolução técnica e meu compromisso em entregar resultados consistentes na área de desenvolvimento web.  
 
-## Onde Você Pode Me Encontrar : 📲📞
+## Onde Me Encontrar :
 
 <br> 
-<div>
-<a href="https://portfolio-de-sabrina.vercel.app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/sabrina2610/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:sabrinamorenorodr28741@gmail.com?subject=Contato&body=Ol%C3%A1%2C%20Sabrina!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+
+<div align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sabrina2610/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+         width="80" height="50" alt="linkedin logo" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="https://mail.google.com/mail/?view=cm&to=sabrinamorenorodr28741@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+         width="80" height="50" alt="gmail logo" />
+  </a>
+
+  <!-- Portfólio -->
+  <a href="https://portfolio-de-sabrina.vercel.app" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/9b59b6/internet.png" 
+         alt="Portfólio" width="60"/>
+  </a>
 </div>
 
 ## Estatísticas 📊
@@ -22,7 +35,7 @@ Tenho domínio de Git e GitHub para controle de versão, além de experiência e
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinamoreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Projetos em Destaque 💼
+## Projetos em Destaque :
 
 | Projetos | |
 |----------|--|
@@ -46,3 +59,9 @@ Tenho domínio de Git e GitHub para controle de versão, além de experiência e
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabrinamoreno/sabrinamoreno/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabrinamoreno/sabrinamoreno/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sabrinamoreno/sabrinamoreno/output/github-contribution-grid-snake.svg">
+</picture>
