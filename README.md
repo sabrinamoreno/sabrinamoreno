@@ -11,9 +11,10 @@ Tenho domínio de Git e GitHub para controle de versão, além de experiência e
 <div>
 <a href="https://portfolio-de-sabrina.vercel.app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/sabrina2610/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:contact.sabrina.dev@gmail.com?subject=Contato&body=Ol%C3%A1%2C%20Sabrina!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.sabrina.dev@gmail.com&su=Contato&body=Olá%2C%20Sabrina!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
 </a>
+
 
 
 
