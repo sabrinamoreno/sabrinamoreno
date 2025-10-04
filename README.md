@@ -24,11 +24,11 @@ Tenho domínio de Git e GitHub para controle de versão, além de experiência e
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinamoreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Projetos em Destaque :
+## Projetos individuais e em equipe
 
 | Projetos | |
 |----------|--|
-|**Meu Portfolio On-line✔️** <br>**Deploy:** [https://portfolio-de-sabrina.vercel.app](https://portfolio-de-sabrina.vercel.app) <br><br> **Página de Login Interativa com JavaScript✔️** <br>**Deploy**: [https://desafio-3-rouge.vercel.app](https://desafio-3-rouge.vercel.app)<br>**Repositório**: https://github.com/biancadamasceno/DESAFIO_3<br><br> **Plataforma Educacional SISFOR✔️** <br>**Deploy:** [https://desafio-4-trilhas-inova.vercel.app](https://desafio-4-trilhas-inova.vercel.app) <br>**Repositório**: https://github.com/sabrinamoreno/desafio-4-trilhas-inova <br><br> **Plataforma de Telemedicina CallMed Atendimentos✔️** <br>**Deploy:** [https://desafio-5-trilhas-inova.vercel.app](https://desafio-5-trilhas-inova.vercel.app) <br>**Repositório**: https://github.com/sabrinamoreno/desafio-5-trilhas-inova <br><br> **Landing Page Turismo✔️** <br>**Deploy:** [https://landing-page-estatica.vercel.app](https://landing-page-estatica.vercel.app) <br>**Repositório**: https://github.com/sabrinamoreno/landing-page-estatica <br><br> | <p align="center"><img src="https://media1.tenor.com/m/KXR25Mh2tPsAAAAC/typing.gif" width="200"></p> |
+|**Meu Portfolio On-line✔️** <br>**Deploy:** [https://portfolio-de-sabrina.vercel.app](https://portfolio-de-sabrina.vercel.app) <br><br> **Página de Login Interativa com JavaScript✔️** <br>**Deploy**: [https://desafio-3-rouge.vercel.app](https://desafio-3-rouge.vercel.app)<br>**Repositório**: https://github.com/biancadamasceno/DESAFIO_3<br><br> **Plataforma Educacional SISFOR✔️** <br>**Deploy:** [https://desafio-4-trilhas-inova.vercel.app](https://desafio-4-trilhas-inova.vercel.app) <br>**Repositório**: https://github.com/sabrinamoreno/desafio-4-trilhas-inova <br><br> **Plataforma de Telemedicina CallMed Atendimentos✔️** <br>**Deploy:** [https://desafio-5-trilhas-inova.vercel.app](https://desafio-5-trilhas-inova.vercel.app) <br>**Repositório**: https://github.com/sabrinamoreno/desafio-5-trilhas-inova <br><br> | <p align="center"><img src="https://media1.tenor.com/m/KXR25Mh2tPsAAAAC/typing.gif" width="200"></p> |
 
   
 ## Tecnologias :) 
