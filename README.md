@@ -42,7 +42,13 @@ Tenho domínio de Git e GitHub para controle de versão, além de experiência e
 
 </div> <br>
 
-## 
+## Estatisticas
+
+<div>
+<a href="https://github.com/sabrinamoreno">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinamoreno&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinamoreno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ## Projetos individuais e em equipe
