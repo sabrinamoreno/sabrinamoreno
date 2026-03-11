@@ -1,4 +1,4 @@
-<h1 align="center">👾 Sabrina.exe</h1>
+<h1 align="center">👾 sabrina.exe</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=a855f7&size=24&center=true&vCenter=true&width=700&lines=Access+Granted...;Front-End+Developer;Future+FullStack+Engineer;Building+the+Future+With+Code" />
