@@ -16,13 +16,13 @@ Sabrina
 Front-End Developer | Future FullStack Engineer
 
 > location
-Brazil 🇧🇷
+São Luís - Brazil 🇧🇷
 
 > mission
 Designing immersive, accessible and high-performance digital experiences.
 
 > currently_learning
-React | Java | Spring Boot | REST APIs | System Design
+Java | Spring Boot | REST APIs | System Design
 ```
 
 ---
@@ -36,7 +36,7 @@ React | Java | Spring Boot | REST APIs | System Design
 ```bash
 Front-end  : HTML | CSS | JavaScript | React
 Back-end   : Java | Spring Boot | Python
-Database   : PostgreSQL
+Database   : PostgreSQL | MySQL 
 Tools      : Git | GitHub | VS Code
 Design     : Figma
 ```
