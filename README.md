@@ -54,7 +54,7 @@ Portfolio : http://sabrinamoreno-website.vercel.app/
 ---
 | Projects | |
 |----------|--|
-|**Meu Portfolio On-line✔️** <br>**Deploy:** [http://sabrinamoreno-website.vercel.app/](https://portfolio-de-sabrina.vercel.app) <br><br> **Página de Login Interativa com JavaScript✔️** <br>**Deploy**: [https://desafio-3-rouge.vercel.app](https://desafio-3-rouge.vercel.app)<br>**Repositório**: https://github.com/biancadamasceno/DESAFIO_3<br><br> **Plataforma Educacional SISFOR✔️** <br>**Deploy:** [https://desafio-4-trilhas-inova.vercel.app](https://desafio-4-trilhas-inova.vercel.app) <br>**Repositório**: https://github.com/sabrinamoreno/desafio-4-trilhas-inova <br><br> **Plataforma de Telemedicina CallMed Atendimentos✔️** <br>**Deploy:** [https://desafio-5-trilhas-inova.vercel.app](https://desafio-5-trilhas-inova.vercel.app) <br>**Repositório**: https://github.com/sabrinamoreno/desafio-5-trilhas-inova <br><br> | 
+|**Meu Portfolio On-line✔️** <br>**Deploy:** [http://sabrinamoreno-website.vercel.app/](http://sabrinamoreno-website.vercel.app/) <br><br> **Página de Login Interativa com JavaScript✔️** <br>**Deploy**: [https://desafio-3-rouge.vercel.app](https://desafio-3-rouge.vercel.app)<br>**Repositório**: https://github.com/biancadamasceno/DESAFIO_3<br><br> **Plataforma Educacional SISFOR✔️** <br>**Deploy:** [https://desafio-4-trilhas-inova.vercel.app](https://desafio-4-trilhas-inova.vercel.app) <br>**Repositório**: https://github.com/sabrinamoreno/desafio-4-trilhas-inova <br><br> **Plataforma de Telemedicina CallMed Atendimentos✔️** <br>**Deploy:** [https://desafio-5-trilhas-inova.vercel.app](https://desafio-5-trilhas-inova.vercel.app) <br>**Repositório**: https://github.com/sabrinamoreno/desafio-5-trilhas-inova <br><br> | 
 
 ---
 
