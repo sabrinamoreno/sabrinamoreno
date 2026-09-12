@@ -46,7 +46,7 @@ Design     : Figma
 ## 📡 > Connect 
 
 ```bash
-LinkedIn : https://linkedin.com/in/sabrina2610
+LinkedIn : www.linkedin.com/in/sabrinamrodriguess
 Email    : contact.sabrina.dev@gmail.com
 Portfolio : http://sabrinamoreno-website.vercel.app/
 ```
